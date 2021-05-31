@@ -1,7 +1,7 @@
 # Butuca
 Interface HMI SI4735 Display 480x320 (4.0" - ST7796S or 3.5" - ILI9488)
 
-![](/Images/Butuca SI4735.png)
+![](https://github.com/RednazPublic/Butuca-SI4735/blob/main/Images/Butuca%20SI4735.png)
 
 Follow this article https://randomnerdtutorials.com/install-esp32-filesystem-uploader-arduino-ide/ to upload the files NotoSans-CB11.vlw and NotoSans-ECB18.vlw (/data)
 
