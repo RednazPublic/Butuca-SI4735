@@ -1,3 +1,2 @@
 # Butuca
-Display Interface SI4735
-Correção de bugs 
+Interface IHM SI4735 Display 4" 480x320
