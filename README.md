@@ -1,5 +1,5 @@
 # Butuca
-Interface HMI SI4735 Display 480x320 (4.0" - ST7796S or 3.5" - ILI9488)
+Interface HMI SI4735 Display Touch 480x320 (4.0" - ST7796S or 3.5" - ILI9488)
 
 ![](https://github.com/RednazPublic/Butuca-SI4735/blob/main/Images/Butuca%20SI4735.png)
 
