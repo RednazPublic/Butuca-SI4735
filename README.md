@@ -17,7 +17,7 @@ Bodmer TFT_eSPI
 
 Include in Arduino\libraries\TFT_eSPI\User_Setups this file: Setup27_RPi_ST7796_ESP32.H (4.0") or Setup21_ILI9488.h (3.5")
 
-Include in Arduino\libraries\TFT_eSPI those files User_Setup_Select.h and User_Setup.h for respective display you have.
+Include in Arduino\libraries\TFT_eSPI those files: User_Setup_Select.h and User_Setup.h for respective display you have.
     
 ## Authors
 
